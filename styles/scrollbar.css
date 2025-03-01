@@ -1,0 +1,6 @@
+*::-webkit-scrollbar {width: 10px;width: 10px;}
+*::-webkit-scrollbar-track {border-radius: 5px;background-color: #DFE9EB;}
+*::-webkit-scrollbar-track:active {background-color: #B8C0C2;}
+*::-webkit-scrollbar-thumb {border-radius: 5px;background-color: rgba(179, 17, 228, 0.644);}
+*::-webkit-scrollbar-thumb:hover {background-color: rgb(179, 17, 228);}
+*::-webkit-scrollbar-thumb:active { background-color: rgb(149, 13, 190);}
